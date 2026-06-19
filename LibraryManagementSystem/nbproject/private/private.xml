@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/model/Book.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/model/User.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/model/IssueRecord.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/LoginForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/AdminDashboard.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/UserDashboard.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/main/MainApp.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/AddBookForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/ViewBooksForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/IssueBookForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/ReturnBookForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/ViewIssuedBooksForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/database/DBConnection.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/main/TestConnection.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/RegisterForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/AdminAddUserForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/AdminViewBooksForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/UpdateBookForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/ApprovalForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/service/Session.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/ReturnApprovalForm.java</file>
+            <file>file:/C:/Users/yeabsira/Documents/NetBeansProjects/LibraryManagementSystem/src/gui/StatisticsForm.java</file>
+        </group>
+    </open-files>
+</project-private>
